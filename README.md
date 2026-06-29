@@ -50,6 +50,10 @@ Built a web application for alumni tracking and data collection.
 - Structured database for long-term tracking
 - Collaborated in a team development environment
 
+## Education
+- Computer Engineering (Bachelor’s Degree, In Progress)
+  Focus: Networking, Backend Development, and Cybersecurity
+
 ## Currently Learning
 - Network security and traffic analysis
 - Backend performance and system optimization
